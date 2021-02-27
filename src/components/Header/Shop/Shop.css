@@ -1,0 +1,15 @@
+.shop_container {
+  display: flex;
+}
+.product_container {
+  width: 75vw;
+  margin-left: 50px;
+  margin-right: 5px;
+  background: yellowgreen;
+  border-right: 1px solid #eee;
+  /* border-bottom: 1px solid #eee; */
+}
+.cart_container {
+  width: 25vw;
+  background: yellow;
+}
